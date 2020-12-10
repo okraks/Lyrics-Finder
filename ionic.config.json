@@ -1,0 +1,7 @@
+{
+  "name": "lyric-finder",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
